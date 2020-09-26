@@ -3,5 +3,6 @@
         "Schyler",
         "cupertino",
         "firestore"
-    ]
+    ],
+    "editor.defaultFormatter": "Dart-Code.dart-code"
 }
