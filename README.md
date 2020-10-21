@@ -1,3 +1,4 @@
 # flutter_demo
 
-Flutter training/learning repo.
+The app is a simple use-case of flutter with firebase.
+
